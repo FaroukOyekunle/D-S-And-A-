@@ -1,0 +1,30 @@
+The number, 1406357289, is a 0 to 9 pandigital number because it is made up of each of the digits 0 to 9 in some order, but it also has a rather interesting sub-string divisibility property.
+
+Let d₁ be the 1st digit, d₂ be the 2nd digit, and so on. In this way, we note the following:
+                        d₂d₃d₄  is divisible by 2
+                        d₃d₄d₅  is divisible by 3
+                        d₄d₅d₆  is divisible by 5
+                        d₅d₆d₇  is divisible by 7
+                        d₆d₇d₈  is divisible by 11
+                        d₇d₈d₉  is divisible by 13
+                        d₈d₉d₁₀ is divisible by 17
+
+Find the sum of all 0 to N pandigital numbers with this property.
+
+Input Format
+
+Input contains an integer N
+
+Constraints
+3 <= N <= 9
+
+Output Format
+
+Print the answer corresponding to the test case.
+
+Sample Input
+
+3
+Sample Output
+
+22212

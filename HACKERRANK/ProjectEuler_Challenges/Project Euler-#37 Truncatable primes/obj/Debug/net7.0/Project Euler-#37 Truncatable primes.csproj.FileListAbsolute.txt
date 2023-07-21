@@ -1,0 +1,15 @@
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#37 Truncatable primes\bin\Debug\net7.0\Project Euler-#37 Truncatable primes.exe
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#37 Truncatable primes\bin\Debug\net7.0\Project Euler-#37 Truncatable primes.deps.json
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#37 Truncatable primes\bin\Debug\net7.0\Project Euler-#37 Truncatable primes.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#37 Truncatable primes\bin\Debug\net7.0\Project Euler-#37 Truncatable primes.dll
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#37 Truncatable primes\bin\Debug\net7.0\Project Euler-#37 Truncatable primes.pdb
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#37 Truncatable primes\obj\Debug\net7.0\Project Euler-#37 Truncatable primes.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#37 Truncatable primes\obj\Debug\net7.0\Project Euler-#37 Truncatable primes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#37 Truncatable primes\obj\Debug\net7.0\Project Euler-#37 Truncatable primes.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#37 Truncatable primes\obj\Debug\net7.0\Project Euler-#37 Truncatable primes.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#37 Truncatable primes\obj\Debug\net7.0\Project Euler-#37 Truncatable primes.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#37 Truncatable primes\obj\Debug\net7.0\Project Euler-#37 Truncatable primes.dll
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#37 Truncatable primes\obj\Debug\net7.0\refint\Project Euler-#37 Truncatable primes.dll
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#37 Truncatable primes\obj\Debug\net7.0\Project Euler-#37 Truncatable primes.pdb
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#37 Truncatable primes\obj\Debug\net7.0\Project Euler-#37 Truncatable primes.genruntimeconfig.cache
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#37 Truncatable primes\obj\Debug\net7.0\ref\Project Euler-#37 Truncatable primes.dll

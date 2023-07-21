@@ -1,0 +1,15 @@
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\ProjectEuler-#36 Double-base palindromes\bin\Debug\net7.0\ProjectEuler-#36 Double-base palindromes.exe
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\ProjectEuler-#36 Double-base palindromes\bin\Debug\net7.0\ProjectEuler-#36 Double-base palindromes.deps.json
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\ProjectEuler-#36 Double-base palindromes\bin\Debug\net7.0\ProjectEuler-#36 Double-base palindromes.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\ProjectEuler-#36 Double-base palindromes\bin\Debug\net7.0\ProjectEuler-#36 Double-base palindromes.dll
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\ProjectEuler-#36 Double-base palindromes\bin\Debug\net7.0\ProjectEuler-#36 Double-base palindromes.pdb
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\ProjectEuler-#36 Double-base palindromes\obj\Debug\net7.0\ProjectEuler-#36 Double-base palindromes.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\ProjectEuler-#36 Double-base palindromes\obj\Debug\net7.0\ProjectEuler-#36 Double-base palindromes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\ProjectEuler-#36 Double-base palindromes\obj\Debug\net7.0\ProjectEuler-#36 Double-base palindromes.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\ProjectEuler-#36 Double-base palindromes\obj\Debug\net7.0\ProjectEuler-#36 Double-base palindromes.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\ProjectEuler-#36 Double-base palindromes\obj\Debug\net7.0\ProjectEuler-#36 Double-base palindromes.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\ProjectEuler-#36 Double-base palindromes\obj\Debug\net7.0\ProjectEuler-#36 Double-base palindromes.dll
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\ProjectEuler-#36 Double-base palindromes\obj\Debug\net7.0\refint\ProjectEuler-#36 Double-base palindromes.dll
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\ProjectEuler-#36 Double-base palindromes\obj\Debug\net7.0\ProjectEuler-#36 Double-base palindromes.pdb
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\ProjectEuler-#36 Double-base palindromes\obj\Debug\net7.0\ProjectEuler-#36 Double-base palindromes.genruntimeconfig.cache
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\ProjectEuler-#36 Double-base palindromes\obj\Debug\net7.0\ref\ProjectEuler-#36 Double-base palindromes.dll

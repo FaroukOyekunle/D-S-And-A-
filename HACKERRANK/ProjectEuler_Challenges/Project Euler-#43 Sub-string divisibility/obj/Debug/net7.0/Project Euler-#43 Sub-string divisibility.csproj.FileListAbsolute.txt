@@ -1,0 +1,15 @@
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#43 Sub-string divisibility\obj\Debug\net7.0\Project Euler-#43 Sub-string divisibility.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#43 Sub-string divisibility\obj\Debug\net7.0\Project Euler-#43 Sub-string divisibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#43 Sub-string divisibility\obj\Debug\net7.0\Project Euler-#43 Sub-string divisibility.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#43 Sub-string divisibility\obj\Debug\net7.0\Project Euler-#43 Sub-string divisibility.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#43 Sub-string divisibility\obj\Debug\net7.0\Project Euler-#43 Sub-string divisibility.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#43 Sub-string divisibility\bin\Debug\net7.0\Project Euler-#43 Sub-string divisibility.exe
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#43 Sub-string divisibility\bin\Debug\net7.0\Project Euler-#43 Sub-string divisibility.deps.json
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#43 Sub-string divisibility\bin\Debug\net7.0\Project Euler-#43 Sub-string divisibility.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#43 Sub-string divisibility\bin\Debug\net7.0\Project Euler-#43 Sub-string divisibility.dll
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#43 Sub-string divisibility\bin\Debug\net7.0\Project Euler-#43 Sub-string divisibility.pdb
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#43 Sub-string divisibility\obj\Debug\net7.0\Project Euler-#43 Sub-string divisibility.dll
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#43 Sub-string divisibility\obj\Debug\net7.0\refint\Project Euler-#43 Sub-string divisibility.dll
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#43 Sub-string divisibility\obj\Debug\net7.0\Project Euler-#43 Sub-string divisibility.pdb
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#43 Sub-string divisibility\obj\Debug\net7.0\Project Euler-#43 Sub-string divisibility.genruntimeconfig.cache
+C:\Users\TOSHIBA\Desktop\Data Structure & Algorithms\HACKERRANK\ProjectEuler_Challenges\Project Euler-#43 Sub-string divisibility\obj\Debug\net7.0\ref\Project Euler-#43 Sub-string divisibility.dll
